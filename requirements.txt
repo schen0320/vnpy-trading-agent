@@ -1,0 +1,4 @@
+vnpy>=2.0.0
+numpy>=1.24
+pandas>=2.0
+pyyaml>=6.0
